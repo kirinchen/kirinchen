@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @kirinchen
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @kirinchen 
+    > [linkedin](https://www.linkedin.com/in/chen-kirin-b7907688/) 
+    > 
+    > [blogger](https://ddtwork.blogspot.com/)
+- 👀 I’m interested in
+ 
+    -  ```Quantitative trading``` 
+    - ```Automatic trading```
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
 
 <!---
 kirinchen/kirinchen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
