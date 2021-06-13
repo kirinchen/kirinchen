@@ -2,6 +2,8 @@
     > [linkedin](https://www.linkedin.com/in/chen-kirin-b7907688/) 
     > 
     > [blogger](https://ddtwork.blogspot.com/)
+    > 
+    >[resume](https://www.cakeresume.com/kirin-chen-696bc0)
 - 👀 I’m interested in
  
     -  ```Quantitative trading``` 
